@@ -1,0 +1,11 @@
+body {
+    background-color: #333333;
+    color: #CCCCCC;
+    font-family: "Lekton", Arial, monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#enigma {
+    font-size: 3.5em;
+}
